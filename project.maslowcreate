@@ -8,6 +8,23 @@
     "topLevel": true,
     "allAtoms": [
         {
+            "atomType": "RegularPolygon",
+            "name": "RegularPolygon",
+            "x": 0.1540590405904059,
+            "y": 0.5986394557823129,
+            "uniqueID": 242456,
+            "ioValues": [
+                {
+                    "name": "number of sides",
+                    "ioValue": 6
+                },
+                {
+                    "name": "diameter",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
             "atomType": "Circle",
             "name": "Circle",
             "x": 0.26229508196721313,
