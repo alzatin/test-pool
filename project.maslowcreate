@@ -10,13 +10,51 @@
         {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.3397177419354839,
-            "y": 0.5816326530612245,
+            "x": 0.2620967741935484,
+            "y": 0.5748299319727891,
             "uniqueID": 726470,
             "ioValues": [
                 {
                     "name": "diameter",
                     "ioValue": 100
+                }
+            ]
+        },
+        {
+            "atomType": "Translate",
+            "name": "Translate",
+            "x": 0.43245967741935487,
+            "y": 0.47619047619047616,
+            "uniqueID": 929651,
+            "ioValues": [
+                {
+                    "name": "xDist",
+                    "ioValue": 0
+                },
+                {
+                    "name": "yDist",
+                    "ioValue": 0
+                },
+                {
+                    "name": "zDist",
+                    "ioValue": 0
+                }
+            ]
+        },
+        {
+            "atomType": "Rectangle",
+            "name": "Rectangle",
+            "x": 0.5383064516129032,
+            "y": 0.4727891156462585,
+            "uniqueID": 908448,
+            "ioValues": [
+                {
+                    "name": "x length",
+                    "ioValue": 10
+                },
+                {
+                    "name": "y length",
+                    "ioValue": 10
                 }
             ]
         },
@@ -28,7 +66,15 @@
             "ioValues": []
         }
     ],
-    "allConnectors": [],
+    "allConnectors": [
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 726470,
+            "ap2ID": 929651
+        }
+    ],
     "fileTypeVersion": 1,
     "filetypeVersion": 1,
     "circleSegmentSize": 2
