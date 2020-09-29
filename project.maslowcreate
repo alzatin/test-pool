@@ -8,129 +8,15 @@
     "topLevel": true,
     "allAtoms": [
         {
-            "atomType": "RegularPolygon",
-            "name": "RegularPolygon",
-            "x": 0.16247450713800135,
-            "y": 0.54421768707483,
-            "uniqueID": 242456,
-            "ioValues": [
-                {
-                    "name": "number of sides",
-                    "ioValue": 6
-                },
-                {
-                    "name": "diameter",
-                    "ioValue": 10
-                }
-            ]
-        },
-        {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.26229508196721313,
-            "y": 0.5680272108843537,
-            "uniqueID": 726470,
-            "ioValues": [
-                {
-                    "name": "diameter",
-                    "ioValue": 100
-                }
-            ]
-        },
-        {
-            "atomType": "Translate",
-            "name": "Translate",
-            "x": 0.4439157036029912,
-            "y": 0.445578231292517,
-            "uniqueID": 929651,
-            "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": ""
-                },
-                {
-                    "name": "xDist",
-                    "ioValue": 150
-                },
-                {
-                    "name": "yDist",
-                    "ioValue": 0
-                },
-                {
-                    "name": "zDist",
-                    "ioValue": 0
-                }
-            ]
-        },
-        {
-            "atomType": "Rectangle",
-            "name": "Rectangle",
-            "x": 0.5249077490774907,
-            "y": 0.35714285714285715,
-            "uniqueID": 908448,
-            "ioValues": [
-                {
-                    "name": "x length",
-                    "ioValue": 100
-                },
-                {
-                    "name": "y length",
-                    "ioValue": 100
-                }
-            ]
-        },
-        {
-            "atomType": "Circle",
-            "name": "Circle",
-            "x": 0.3053505535055351,
-            "y": 0.7278911564625851,
-            "uniqueID": 624314,
+            "x": 0.43129388164493476,
+            "y": 0.45238095238095233,
+            "uniqueID": 324749,
             "ioValues": [
                 {
                     "name": "diameter",
                     "ioValue": 10
-                }
-            ]
-        },
-        {
-            "atomType": "Extrude",
-            "name": "Extrude",
-            "x": 0.6937269372693727,
-            "y": 0.6020408163265306,
-            "uniqueID": 305546,
-            "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": ""
-                },
-                {
-                    "name": "height",
-                    "ioValue": 10
-                }
-            ]
-        },
-        {
-            "atomType": "Rotate",
-            "name": "Rotate",
-            "x": 0.6079646017699115,
-            "y": 0.8401360544217688,
-            "uniqueID": 393520,
-            "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": ""
-                },
-                {
-                    "name": "x-axis degrees",
-                    "ioValue": 50
-                },
-                {
-                    "name": "y-axis degrees",
-                    "ioValue": 50
-                },
-                {
-                    "name": "z-axis degrees",
-                    "ioValue": 150
                 }
             ]
         },
@@ -142,29 +28,7 @@
             "ioValues": []
         }
     ],
-    "allConnectors": [
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 726470,
-            "ap2ID": 929651
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 908448,
-            "ap2ID": 305546
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 908448,
-            "ap2ID": 393520
-        }
-    ],
+    "allConnectors": [],
     "fileTypeVersion": 1,
     "filetypeVersion": 1,
     "circleSegmentSize": 2
