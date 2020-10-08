@@ -10,8 +10,8 @@
         {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.3205607476635514,
-            "y": 0.5509554140127388,
+            "x": 0.3261682242990654,
+            "y": 0.5477707006369427,
             "uniqueID": 324749,
             "ioValues": [
                 {
@@ -23,11 +23,11 @@
         {
             "atomType": "Color",
             "name": "Color",
-            "x": 0.48411214953271026,
-            "y": 0.7834394904458599,
+            "x": 0.516822429906542,
+            "y": 0.49363057324840764,
             "uniqueID": 618629,
             "ioValues": [],
-            "selectedColorIndex": 0
+            "selectedColorIndex": "2"
         },
         {
             "atomType": "Output",
