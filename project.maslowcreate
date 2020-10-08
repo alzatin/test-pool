@@ -10,8 +10,8 @@
         {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.31947069943289225,
-            "y": 0.5573248407643312,
+            "x": 0.31962616822429907,
+            "y": 0.5509554140127388,
             "uniqueID": 324749,
             "ioValues": [
                 {
@@ -21,15 +21,6 @@
             ]
         },
         {
-            "atomType": "Color",
-            "name": "Color",
-            "x": 0.47476635514018695,
-            "y": 0.6560509554140127,
-            "uniqueID": 482530,
-            "ioValues": [],
-            "selectedColorIndex": 0
-        },
-        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9810246679316889,
@@ -37,15 +28,7 @@
             "ioValues": []
         }
     ],
-    "allConnectors": [
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 324749,
-            "ap2ID": 482530
-        }
-    ],
+    "allConnectors": [],
     "fileTypeVersion": 1,
     "filetypeVersion": 1,
     "circleSegmentSize": 2
