@@ -23,17 +23,17 @@
         {
             "atomType": "Color",
             "name": "Color",
-            "x": 0.5009345794392523,
-            "y": 0.375796178343949,
+            "x": 0.4850467289719626,
+            "y": 0.267515923566879,
             "uniqueID": 618629,
             "ioValues": [],
-            "selectedColorIndex": "2"
+            "selectedColorIndex": "3"
         },
         {
             "atomType": "Extrude",
             "name": "Extrude",
-            "x": 0.33271028037383177,
-            "y": 0.6751592356687898,
+            "x": 0.33738317757009345,
+            "y": 0.5955414012738853,
             "uniqueID": 712020,
             "ioValues": [
                 {
