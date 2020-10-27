@@ -29,7 +29,7 @@
             "ioValues": [
                 {
                     "name": "height",
-                    "ioValue": -1000
+                    "ioValue": -100
                 }
             ]
         },
