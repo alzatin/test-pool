@@ -10,13 +10,13 @@
         {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.19644527595884004,
-            "y": 0.35031847133757965,
+            "x": 0.19831618334892423,
+            "y": 0.3195876288659794,
             "uniqueID": 324749,
             "ioValues": [
                 {
                     "name": "diameter",
-                    "ioValue": 1000
+                    "ioValue": 10
                 }
             ]
         },
@@ -29,7 +29,7 @@
             "ioValues": [
                 {
                     "name": "height",
-                    "ioValue": 1000
+                    "ioValue": -1000
                 }
             ]
         },
@@ -90,6 +90,12 @@
             "ap2Primary": true,
             "ap1ID": 712020,
             "ap2ID": 151497
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "number or geometry",
+            "ap2Primary": false,
+            "ap1ID": 151497
         },
         {
             "ap1Name": "geometry",
