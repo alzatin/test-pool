@@ -56,19 +56,6 @@
             ]
         },
         {
-            "atomType": "CutLayout",
-            "name": "Cut Layout",
-            "x": 0.6089803554724041,
-            "y": 0.6288659793814433,
-            "uniqueID": 666136,
-            "ioValues": [
-                {
-                    "name": "Spacing",
-                    "ioValue": 5
-                }
-            ]
-        },
-        {
             "atomType": "Extrude",
             "name": "Extrude",
             "x": 0.3835360149672591,
@@ -78,6 +65,19 @@
                 {
                     "name": "height",
                     "ioValue": 10
+                }
+            ]
+        },
+        {
+            "atomType": "CutLayout",
+            "name": "Cut Layout",
+            "x": 0.6594948550046772,
+            "y": 0.6460481099656358,
+            "uniqueID": 666136,
+            "ioValues": [
+                {
+                    "name": "Spacing",
+                    "ioValue": 5
                 }
             ]
         },
