@@ -56,6 +56,19 @@
             ]
         },
         {
+            "atomType": "CutLayout",
+            "name": "Cut Layout",
+            "x": 0.6043030869971936,
+            "y": 0.6323024054982818,
+            "uniqueID": 666136,
+            "ioValues": [
+                {
+                    "name": "Spacing",
+                    "ioValue": 5
+                }
+            ]
+        },
+        {
             "atomType": "Extrude",
             "name": "Extrude",
             "x": 0.3835360149672591,
